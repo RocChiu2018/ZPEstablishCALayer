@@ -1,0 +1,2 @@
+# ZPEstablishCALayer
+本Demo主要介绍了如何新创建一个CALayer对象，并且对比了CALayer对象和UIImageView控件的区别。
