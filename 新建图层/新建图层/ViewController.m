@@ -9,7 +9,6 @@
 /**
  * 其实，对比CALayer，UIView多了一个事件处理的功能。也就是说，CALayer不能处理用户的触摸事件，而UIView可以。所以，如果显示出来的东西需要跟用户进行交互的话，用UIView；如果不需要跟用户进行交互，用UIView或者CALayer都可以，当然，CALayer的性能会高一些，因为它少了事件处理的功能，更加轻量级。
  */
-
 #import "ViewController.h"
 
 @interface ViewController ()
